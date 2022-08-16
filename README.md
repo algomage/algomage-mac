@@ -1,2 +1,2 @@
-# algomage-mac
-Algomage Mac
+# AlgoCull Mac (M1 Chip)
+AlgoCull Mac (M1 Chip)
