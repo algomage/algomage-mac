@@ -2,6 +2,6 @@
 AlgoCull Mac (M1 Chip)
 
 ## Download (Latest) - Apple M1
-[Download - AlgoCull v.1.0.61](https://github.com/algomage/algomage-mac/releases/download/v1.0.61/AlgoCull-1.0.61-arm64.dmg "Download (Latest) - Apple M1")
+[Download - AlgoCull v.1.0.62](https://github.com/algomage/algomage-mac/releases/download/v1.0.62/AlgoCull-1.0.62-arm64.dmg "Download (Latest) - Apple M1")
 
-Download Link : `https://github.com/algomage/algomage-mac/releases/download/v1.0.61/AlgoCull-1.0.61-arm64.dmg`
+Download Link : `https://github.com/algomage/algomage-mac/releases/download/v1.0.62/AlgoCull-1.0.62-arm64.dmg`
